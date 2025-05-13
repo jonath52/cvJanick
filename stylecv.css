@@ -1,0 +1,167 @@
+p{
+
+font-family: 'Courier New', Courier, monospace;
+font-size: 20px;
+color: black;
+
+
+
+
+}
+
+
+
+.contact{
+
+padding-left: 20px;
+margin-right: auto;
+
+
+
+}
+
+
+.prez{
+
+
+border-bottom: 2px dashed #ccc ;
+
+
+
+}
+
+
+section{
+
+display: flex;
+flex-flow: row wrap;
+justify-content: center;
+width: 100%;
+padding-bottom: 20px;
+margin: 20px auto;
+box-shadow: 0px 0px 10px #bbb;
+background-color: #fff;
+
+}
+
+a{
+
+text-decoration: none;
+color: #000
+
+
+
+}
+
+
+.prez a{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin: 10px auto 30px auto;
+    color: #fff;
+    background-color: #EA0;
+    box-shadow: 0px 0px 10px #ccc;
+    border-radius: 5px;
+
+
+
+ }
+
+
+ .prez a:hover{ 
+
+color: #f28835;
+background-color: #fff;
+border: 2px solid #f28835;
+box-shadow: 0px 0px 20px #666;
+ 
+
+
+ }
+
+ .contact-flex{
+
+display: flex;
+flex-flow: row wrap;
+align-items: center;
+
+
+
+ }
+ .contact-flex p:first-child{
+
+
+flex: 0 0 40%;
+
+
+
+ }
+
+ .contact-flex p:last-child{
+
+
+flex: 0 0 60%;
+
+
+ }
+
+ 
+
+
+
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    
+    
+    
+    }
+
+
+    ul{
+       font-family: 'Courier New', Courier, monospace;
+       font-size: 20px;
+        list-style: none;
+        text-align: center;
+        
+        
+      }
+
+
+    a:hover{
+
+
+    color: red;
+    text-decoration: underline;
+
+
+    }
+
+    h2{
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+        text-align: center;
+        text-decoration: underline;
+        
+        
+     }
+
+
+    h3{
+
+
+       font-family: 'Courier New', Courier, monospace;
+       font-size: 20px;
+       text-align: center;
+       text-decoration: underline;
+
+
+
+    }
+
+    
